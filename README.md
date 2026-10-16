@@ -3,11 +3,6 @@ An open-source AI voice agent that talks to customers, books appointments and sa
 
 
 
-# OpenCallAgent
-An open-source AI voice agent that talks to customers, books appointments and saves every call to a CRM.
-
-
-
 An open-source AI voice agent that answers calls, qualifies leads, books appointments and logs everything to your CRM. Built with free tools only ($0).
 
 
